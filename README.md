@@ -1,6 +1,6 @@
 # SQL-Practice
-Ejercicios SQL  Practicas 1
+Ejercicios SQL Exercises V1
 
-Ejercicios SQL  Practicas 2
+Ejercicios SQL Exercises V2
 
-Ejercicios SQL Alan
+Ejercicios SQL Exercises V3
